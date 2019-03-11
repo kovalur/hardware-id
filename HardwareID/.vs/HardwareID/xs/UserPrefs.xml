@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A807A9F5-6B53-4C88-9B44-DF233717C953}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HardwareID/EmptyClass.cs">
+    <Files>
+      <File FileName="HardwareID/Program.cs" Line="13" Column="1" />
+      <File FileName="HardwareID/EmptyClass.cs" Line="2" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HardwareID" expanded="True">
+            <Node name="HardwareID" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.HardwareID FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
