@@ -1,2 +1,2 @@
 # hardware-id
-Retrieving a unique hardware/device ID key
+Retrieving a unique hardware/device ID key.
